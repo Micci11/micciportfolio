@@ -1,23 +1,26 @@
 import React from 'react';
 import { Navbar, Nav, Container } from 'react-bootstrap';
 
-const Navbarr = () => {
+function Navbarr() {
   return (
-    <Navbar bg="dark" variant="dark" expand="lg" fixed="top">
-      <Container>
-        <Navbar.Brand href="/">My Portfolio</Navbar.Brand>
-        <Navbar.Toggle aria-controls="navbar-nav" />
-        <Navbar.Collapse id="navbar-nav">
-          <Nav className="ml-auto">
-            <Nav.Link href="/about">About</Nav.Link>
-            <Nav.Link href="/portfolio">Portfolio</Nav.Link>
-            <Nav.Link href="/contact">Contact</Nav.Link>
-            <Nav.Link href="/resume">Resume</Nav.Link>
-          </Nav>
-        </Navbar.Collapse>
-      </Container>
-    </Navbar>
+    <>
+      <Navbar bg="dark" variant="dark" expand="lg" fixed="top">
+        <Container>
+          <Navbar.Brand href="/">Micci</Navbar.Brand>
+          <Navbar.Toggle aria-controls="navbar-nav" />
+          <Navbar.Collapse id="navbar-nav">
+            <Nav className="ml-auto">
+              <Nav.Link href="#section1">About</Nav.Link>
+              <Nav.Link href="#section2">Portfolio</Nav.Link>
+              <Nav.Link href="#section3">Contact</Nav.Link>
+              <Nav.Link href="#section4">Resume</Nav.Link>
+            </Nav>
+          </Navbar.Collapse>
+        </Container>
+      </Navbar>
+      <br />
+    </>
   );
-};
+}
 
 export default Navbarr;
