@@ -36,7 +36,7 @@ const Portfolio = () => {
               <ApplicationBox
                 title="Geo-Pairing"
                 description="MERN Stack App"
-                imageUrl="/images/Desktop - 1.png"
+                imageUrl="images/Desktop - 1.png"
                 liveLink="https://www.example.com/app-1" 
                 githubLink="https://github.com/iangoodwin173/geo-pairing"
               />
@@ -45,7 +45,7 @@ const Portfolio = () => {
               <ApplicationBox
                 title="Employee Tracker"
                 description=". This command-line application provides a streamlined user interface to assist with tasks."
-                imageUrl="/images/employee.png" 
+                imageUrl="images/employee.png" 
                 liveLink="https://www.example.com/app-2" 
                 githubLink="https://github.com/Micci11/12employeetracker"
               />
@@ -54,7 +54,7 @@ const Portfolio = () => {
               <ApplicationBox
                 title="README Generator"
                 description="README Generator is a command-line application"
-                imageUrl="/images/readmeee.png"
+                imageUrl="images/readmeee.png"
                 liveLink="https://www.example.com/app-3"
                 githubLink="https://github.com/Micci11/readmegenerator9"
               />
@@ -63,7 +63,7 @@ const Portfolio = () => {
               <ApplicationBox
                 title="Fantastic Umbrella"
                 description=" e-commerce site by configuring a working Express.js API to use Sequelize "
-                imageUrl="/images/screenshot1.png"
+                imageUrl="images/screenshot1.png"
                 liveLink="https://www.example.com/app-4" 
                 githubLink="https://github.com/Micci11/13fantastic-umbrella"
               />
@@ -72,7 +72,7 @@ const Portfolio = () => {
               <ApplicationBox
                 title="Weather API"
                 description=" weather dashboard that allows users to search for a city and view weather"
-                imageUrl="/images/Weather-Api.jpg"
+                imageUrl="images/Weather-Api.jpg"
                 liveLink="https://www.example.com/app-5" 
                 githubLink="https://github.com/Micci11/weatherAPI6"
               />
@@ -81,7 +81,7 @@ const Portfolio = () => {
               <ApplicationBox
                 title="Password Generator"
                 description="Generator built with Javascript"
-                imageUrl="/images/pic.png"
+                imageUrl="images/pic.png"
                 liveLink="https://www.example.com/app-6" 
                 githubLink="https://github.com/Micci11/challenge3passwordgenerator"
               />

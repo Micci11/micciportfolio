@@ -9,14 +9,14 @@ import Resume from './pages/Resume';
 
 function App() {
   return (
-    <Router>
-        <Routes>
-          <Route path="/" element={<About />} />
-          <Route path="/about" element={<About />} />
-          <Route path="/contact" element={<Contact />} />
-          <Route path="/portfolio" element={<Portfolio />} />
-          <Route path="/resume" element={<Resume />} />
-        </Routes>
+    <Router basename="/myportfolio"> {/* Set the basename */}
+      <Routes>
+        <Route path="/" element={<About />} />
+        <Route path="/about" element={<About />} />
+        <Route path="/contact" element={<Contact />} />
+        <Route path="/portfolio" element={<Portfolio />} />
+        <Route path="/resume" element={<Resume />} />
+      </Routes>
     </Router>
   );
 }
