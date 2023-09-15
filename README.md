@@ -1,4 +1,4 @@
-# Micci Portfolio
+# My Portfolio
 
 Hello, welcome to my  portfolio. I'm Micci, a passionate full-stack developer with a particular interest in frontend development, and frontend UI/UX design.
 
@@ -24,6 +24,6 @@ Here are some of the technologies and tools that I am proficient in:
 Contact Me
 I'm always open to discussing job opportunities, collaborative projects, or any kind of web development work. You can reach me at:
 
-Email: miccibenner@gmail.com
+Email: miccicurto@gmail.com
 
 Let's connect and create something amazing together!

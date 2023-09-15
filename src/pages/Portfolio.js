@@ -47,7 +47,7 @@ const Portfolio = () => {
                 description=". This command-line application provides a streamlined user interface to assist with tasks."
                 imageUrl="/images/employee.png" 
                 liveLink="https://www.example.com/app-2" 
-                githubLink="https://github.com/micci11/12employeetracker"
+                githubLink="https://github.com/Micci11/12employeetracker"
               />
 
               {/* Application 3 */}
@@ -56,7 +56,7 @@ const Portfolio = () => {
                 description="README Generator is a command-line application"
                 imageUrl="/images/readmeee.png"
                 liveLink="https://www.example.com/app-3"
-                githubLink="https://github.com/micci11/readmegenerator9"
+                githubLink="https://github.com/Micci11/readmegenerator9"
               />
 
               {/* Application 4 */}
@@ -65,7 +65,7 @@ const Portfolio = () => {
                 description=" e-commerce site by configuring a working Express.js API to use Sequelize "
                 imageUrl="/images/screenshot1.png"
                 liveLink="https://www.example.com/app-4" 
-                githubLink="https://github.com/micci11/13fantastic-umbrella"
+                githubLink="https://github.com/Micci11/13fantastic-umbrella"
               />
 
               {/* Application 5 */}
@@ -74,7 +74,7 @@ const Portfolio = () => {
                 description=" weather dashboard that allows users to search for a city and view weather"
                 imageUrl="/images/Weather-Api.jpg"
                 liveLink="https://www.example.com/app-5" 
-                githubLink="https://github.com/micci11/weatherAPI6"
+                githubLink="https://github.com/Micci11/weatherAPI6"
               />
 
               {/* Application 6 */}
@@ -83,7 +83,7 @@ const Portfolio = () => {
                 description="Generator built with Javascript"
                 imageUrl="/images/pic.png"
                 liveLink="https://www.example.com/app-6" 
-                githubLink="https://github.com/micci11/challenge3passwordgenerator"
+                githubLink="https://github.com/Micci11/challenge3passwordgenerator"
               />
             </Row>
           </Col>
