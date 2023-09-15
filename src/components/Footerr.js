@@ -8,7 +8,7 @@ const Footer = () => {
       <Container>
         <div>
           {/* GitHub Profile Link */}
-          <a href="https://github.com/Micci11" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/micci11" target="_blank" rel="noopener noreferrer">
             <FaGithub className="footer-icon" />
           </a>
 

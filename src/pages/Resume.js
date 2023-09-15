@@ -13,7 +13,7 @@ const Resume = () => {
             <h2 style={{ fontWeight: 'bold' }}>Resume</h2>
             {/* Add your resume content or link here */}
             <p>This is a summary of my qualifications and experiences...</p>
-            <a href="/Resume2023.pdf" target="_blank" rel="noopener noreferrer">
+            <a href="/public/MicciResume.pdf" target="_blank" rel="noopener noreferrer">
               Download Resume (PDF)
             </a>
           </Col>

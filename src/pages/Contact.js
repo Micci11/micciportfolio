@@ -44,7 +44,7 @@ const Contact = () => {
         </Row>
         <Row className="section">
           <Col>
-            <p>Email: miccibenner@gmail.com</p>
+            <p>Email: miccicurto@gmail.com</p>
             <p>Phone: 540-656-8132</p>
           </Col>
         </Row>
